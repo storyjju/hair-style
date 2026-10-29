@@ -19,6 +19,12 @@
       "skillPath": "skills/workflow/build-prototype/SKILL.md",
       "computedHash": "ef34e8f19f5ff2759ad0958377705b99d632f6714cb45d3b9e79f3a3b94d6066"
     },
+    "claude-api": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/claude-api/SKILL.md",
+      "computedHash": "148a06f190cb71885f74eb401aa732d1eb7bc56b0d94517d526380e043298f8b"
+    },
     "commit": {
       "source": "toy-crane/skills",
       "sourceType": "github",
